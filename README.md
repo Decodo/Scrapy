@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/Decodo/Decodo"> :house: Main Repository :house: </a>
+    <a href="https://github.com/Decodo/Decodo"> Main Repository </a>
 </p>
 
 ### Disclaimer
@@ -30,12 +30,12 @@ scrapy startproject yourprojectname
 When project directory is setup, you can now download our test spider code: 
 
 1. Make sure to open the exact location in your project folder using `cd .\yourprojectname\yourprojectname\spiders\`
-2. To download our example script, run command `curl https://raw.githubusercontent.com/Smartproxy/Scrapy/master/smartproxy_spider.py > smartproxy_spider.py`
-3. Open the `smartproxy_spider.py` file and enter your Endpoint, Port as well as replace the Username, Password with your proxy authentication credentials.
-4. Run the script using `scrapy crawl smartproxy` command.
+2. To download our example script, run command `curl https://raw.githubusercontent.com/Decodoroxy/Scrapy/master/Decodoroxy_spider.py > Decodoroxy_spider.py`
+3. Open the `decodoroxy_spider.py` file and enter your Endpoint, Port as well as replace the Username, Password with your proxy authentication credentials.
+4. Run the script using `scrapy crawl Decodoroxy` command.
 <img src="https://i.imgur.com/fkgr0ep.png" alt="running scrapy crawl script in anaconda prompt">
 
-Note that the code may not run if the `smartproxy_spider.py` file is in the wrong directory.
+Note that the code may not run if the `Decodoroxy_spider.py` file is in the wrong directory.
 
 ### How to check if it works?
 
@@ -46,7 +46,7 @@ If you have done all the steps correctly, you should see the result as `{'price'
 <img src="https://snipboard.io/0dr1Ch.jpg" alt="crawling results from target website in terminal window">
 
 ## Need help?
-Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
+Email - sales@Decodoroxy.com
+<br><a href="https://Decodoroxy.com">Live chat 24/7</a>
 
 
