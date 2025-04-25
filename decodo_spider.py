@@ -1,8 +1,8 @@
 import scrapy
 from w3lib.http import basic_auth_header
 
-class SmartproxySpider(scrapy.Spider):
-    name = "smartproxy"
+class DecodoSpider(scrapy.Spider):
+    name = "decodo"
 
     def start_requests(self):
         urls = [
@@ -21,4 +21,3 @@ class SmartproxySpider(scrapy.Spider):
             yield {
                 'price': price,
             }
-            
