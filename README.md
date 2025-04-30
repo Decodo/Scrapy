@@ -33,7 +33,7 @@ When project directory is setup, you can now download our test spider code:
 2. To download our example script, run command `curl https://raw.githubusercontent.com/Decodo/Scrapy/master/decodo_spider.py > decodo_spider.py`
 3. Open the `decodo_spider.py` file and enter your Endpoint, Port as well as replace the Username, Password with your proxy authentication credentials.
 4. Run the script using `scrapy crawl decodo` command.
-<img src="https://i.imgur.com/fkgr0ep.png" alt="running scrapy crawl script in anaconda prompt">
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/3e4ba2d4-fd37-4736-bb3e-83d9d28d5ec1" />
 
 Note that the code may not run if the `decodo_spider.py` file is in the wrong directory.
 
